@@ -41,7 +41,7 @@ honnetement plus **sali** qu'autre chose en plus de me causer **problemes**
 
 Le mot "racisme" ou "raciste" est employe dans des contextes tellement differents 
 qu'il a fini par perdre une partie de son sens. J'etais deja conscient de cela 
-il y a plus de 3 ans et avait prefere parler de **"prejuge raciste"** dans mon
+il y a plus de 3 ans et avais prefere parler de **"prejuge raciste"** dans mon
 courrier du 26/01/24.
 
 Des prejuges, soit un jugement, une opinion faite **a l'avance**, avant meme
@@ -91,10 +91,12 @@ tous les etudiants de 42. Ce probleme revenait cependant suffisamment souvent
 au point d'agacer ("mais pour qui ils se prennent"...) ou de mettre en place des
 rapports de domination etranges ou je me retrouvais a **prouver ma valeur**
 (comprendre: **pas de traitement chaleureux ou en egal** de leur part tant que je
-n'aurai pas prouve certaines choses) a des gens pourtant plus jeunes que moi, 
-paradoxalement aussi et a ma surprise souvent moins competents ou appliques,
-et qui n'avaient pas l'air, de mes observations tout du moins, de soumettre
-tout le monde aux memes degres d'exigence.
+n'aurai pas montre certaines choses, souvent des **bonnes notes** ou atteindre un
+**certain niveau** dams le Common Core, ce qui renforce d'ailleurs la these que le
+probleme, c'etait bien un prejuge d'incompetence...) a des gens pourtant plus 
+jeunes que moi, paradoxalement aussi et a ma surprise souvent moins competents
+ou appliques, et qui n'avaient pas l'air, de mes observations tout du moins,
+de soumettre tout le monde aux memes degres d'exigence...
 
 <!-- Plus tard, -->
 
