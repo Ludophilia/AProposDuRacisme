@@ -60,9 +60,9 @@ Je vais rester ici tres rigoureux: je ne suis pas dans la tete des autres et
 ne peut donc pas confirmer precisement pourquoi certains etudiants ou candidats
 ont agi et reagi ainsi. Ce dont je suis certain en revanche:
 
-* On a prejuge plus d'une fois de mes capacites a utiliser un ordinateur et plus 
-largement (au moins) de mes capacites intellectuelles, **je montrerai comment**
-**dans la section suivante.**
+* On a prejuge plus d'une fois **negativement** de mes capacites a utiliser un 
+ordinateur et plus largement (au moins) de mes capacites intellectuelles, 
+**j'expliquerai comment dans la section suivante.**
 * Cette idee qu'on avait de moi se basait majoritairement sur mon apparence, la
 seule chose qu'on connaissait de moi au moment ou ces jugements etaient formes.
 	* Je ne pense pas que **mon attitude**, ma **facon de s'exprimer** ou 
