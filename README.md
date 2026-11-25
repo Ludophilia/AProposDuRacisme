@@ -90,7 +90,7 @@ observations...
 tous les etudiants de 42. Ce probleme revenait cependant suffisamment souvent 
 au point d'agacer ("mais pour qui ils se prennent"...) ou de mettre en place des
 rapports de domination etranges ou je me retrouvais a **prouver ma valeur**
-(comprendre: pas de traitement chaleureux ou en egal de leur part tant que je
+(comprendre: **pas de traitement chaleureux ou en egal** de leur part tant que je
 n'aurai pas prouve certaines choses) a des gens pourtant plus jeunes que moi, 
 paradoxalement aussi et a ma surprise souvent moins competents ou appliques,
 et qui n'avaient pas l'air, de mes observations tout du moins, de soumettre
