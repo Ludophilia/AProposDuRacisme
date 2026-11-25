@@ -92,7 +92,7 @@ au point d'agacer ("mais pour qui ils se prennent"...) ou de mettre en place des
 rapports de domination etranges ou je me retrouvais a **prouver ma valeur**
 (comprendre: **pas de traitement chaleureux ou en egal** de leur part tant que je
 n'aurai pas montre certaines choses, souvent des **bonnes notes** ou atteindre un
-**certain niveau** dams le Common Core, ce qui renforce d'ailleurs la these que le
+**certain niveau** dans le Common Core, ce qui renforce d'ailleurs la these que le
 probleme, c'etait bien un prejuge d'incompetence...) a des gens pourtant plus 
 jeunes que moi, paradoxalement aussi et a ma surprise souvent moins competents
 ou appliques, et qui n'avaient pas l'air, de mes observations tout du moins,
