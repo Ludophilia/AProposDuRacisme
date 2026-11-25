@@ -1,6 +1,6 @@
 # A Propos du Racisme
 
-Derniere mise a jour: jeudi 26 novembre 2026.
+*Derniere mise a jour: jeudi 26 novembre 2026.*
 
 **Je prefererais sincerement me concentrer sur ma progression dans mon parcours**
 **plutot que de revenir une fois de plus sur cette histoire...** 
@@ -37,20 +37,21 @@ prefererais faire autre chose que de revenir sur ce sujet qui m'a tres
 honnetement plus **sali** qu'autre chose en plus de me causer **problemes** 
 **sur problemes**.
 
-## Racisme: de quoi je parle EXACTEMENT ?
+## Racisme: de quoi je parle concretement ?
 
 Le mot "racisme" ou "raciste" est employe dans des contextes tellement differents 
 qu'il a fini par perdre une partie de son sens. J'etais deja conscient de cela 
 il y a plus de 3 ans et avait prefere parler de **"prejuge raciste"** dans mon
 courrier du 26/01/24.
 
-Des prejuges, soit un jugement, une opinion faite **a l'avance**, avant meme eu
-un **reel contact** ou une experience avec la personne ou la chose visee.
+Des prejuges, soit un jugement, une opinion faite **a l'avance**, avant meme
+d'avoir eu un **reel contact**, une **experience concrete** avec la personne
+ou la chose visee.
 
 On a tous des idees preconcues, la n'est pas le probleme. On peut penser
-qu'on va passer "une bonne soiree" devant un film dont le synopsis nous a 
-interesse, le nouvel episode d'une serie a success, ou le nouveau jeu d'une
-de ses franchises favorites comme on peut penser qu'un examen, un entretien 
+qu'on va passer "une bonne soiree" devant un film dont le synopsis a pique notre 
+curiosite, la nouvelle saison d'une serie a success, le nouveau jeu d'une
+de ses franchises favorites... comme on peut penser qu'un examen, un entretien 
 d'embauche, ou un rendez-vous avec un client risque de "mal se passer".
 
 **Tout cela avant d'avoir vraiment vecu quoi que ce soit bien sur.**
@@ -78,16 +79,16 @@ de **mefiance**, ou tout simplement de **rejet** que certains etudiants ou
 candidats ont pu avoir, d'autant plus que personne n'a jamais formellement 
 reconnu quoi que ce soit.
 
-Je reverrai cependant le meme type d'attitudes sur d'autres Noirs a 42 (beaucoup
+Je reverrai cependant le meme type d'attitudes sur d'autres noirs a 42 (beaucoup
 trop de noirs seuls en 2023 de mon observation, etrange pour un groupe qui
-est statistiquement minoritaire...) et mes recherches me permettront de revoir
-d'autres personnes dans d'autres milieux valorisant l'Intelligence et/ou 
+est statistiquement en plus minoritaire...) et mes recherches me permettront de revoir
+d'autres personnes dans d'autres milieux valorisant l'intelligence et/ou 
 la Culture ou elles sont aussi minoritaires faire plus ou moins les memes
 observations...
 
 **Je precise encore une fois:** ca ne concernait pas et ca n'a jamais concerne 
-tous les etudiants de 42. Ce probleme revenait suffisamment souvent au point
-d'agacer ("mais pour qui ils se prennent"...) ou de mettre en place des
+tous les etudiants de 42. Ce probleme revenait cependant suffisamment souvent 
+au point d'agacer ("mais pour qui ils se prennent"...) ou de mettre en place des
 rapports de domination etranges ou je me retrouvais a **prouver ma valeur**
 a des gens pourtant plus jeunes que moi, paradoxalement aussi souvent
 moins competents ou appliques, et qui n'avaient pas l'air, de mes observations 
