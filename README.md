@@ -1,11 +1,11 @@
 # A Propos du Racisme
 
-Derniere mise a jour: mardi 24 novembre 2026.
+Derniere mise a jour: mercredi 25 novembre 2026.
 
 **Je prefererais sincerement me concentrer sur ma progression dans mon parcours**
 **plutot que de revenir une fois de plus sur cette histoire...** 
 
-Je constate malheureusement beaucoup de peur et d'inquitude sur ce sujet,
+Je constate malheureusement beaucoup de peur et d'inquietude sur ce sujet,
 notamment depuis [L'Attentat de Trappes et de La Verriere](https://fr.wikipedia.org/wiki/Attentat_de_Trappes_et_La_Verri%C3%A8re)
 du 23 octobre 2026.
 
@@ -26,8 +26,8 @@ toute personne curieuse:
 
 * de comprendre exactement qu'est-ce que j'ai pu reprocher aux autres  
 * de voir les erreurs que j'ai pu faire au cours de ces 3 dernieres annees:
-	* exprimer ma colere a ce sujet, si bien que certaines personnes interne au
-	staff malintentionnees essaient de l'utiliser contre moi jusqu'a ce jour
+	* exprimer ma colere a ce sujet, si bien que certaines personnes internes au
+	staff malintentionnees ont essaye de l'utiliser contre moi. 
 	* parler de ce sujet sensible aux mauvaises personnes... ce qui m'a valu
 	exclusion et fausses accusations.
 * de constater ma progression sur ce sujet, du choc et de la colere initiale 
@@ -37,14 +37,60 @@ prefererais faire autre chose que de revenir sur ce sujet qui m'a tres
 honnetement **sali** plus qu'autre chose en plus de me causer **problemes** 
 **sur problemes**.
 
-Je ne suis pourtant pas la personne qui est raciste... mais bien celle qui
-l'a subi...
+## Racisme: de quoi je parle EXACTEMENT ?
 
-<!-- ## Racisme: de quoi je parle EXACTEMENT dans mon cas? -->
+"Racisme" ou "raciste" est employe dans des contextes tellement differents 
+qu'il a fini par perdre une partie de son sens.
+
+J'etais deja conscient de cela il y a plus de 3 ans et avait prefere parler de
+**"prejuge raciste"** dans mon courrier du 26/01/24.
+
+Des prejuges, soit un jugement, une opinion faite a l'avance, avant meme eu
+un reel contact ou une experience avec la personne ou la chose visee.
+
+On a tous des idees preconcues, la n'est pas le probleme. On peut penser
+qu'on va passer "une bonne soiree" devant un film dont le synopsis nous a 
+interesse, le nouvel episode d'une serie a success, ou le nouveau jeu d'une
+de ses franchises favorites comme on peut penser qu'un examen, un entretien 
+d'embauche, ou un rendez-vous avec un client risque de "mal se passer".
+
+**Tout cela avant d'avoir vraiment vecu quoi que ce soit bien sur.**
+
+Je vais rester ici tres rigoureux: je ne suis pas dans la tete des autres et
+ne peut donc pas confirmer precisement pourquoi certains etudiants ou candidats
+ont agi ainsi.
+
+Ce dont je suis certain en revanche:
+
+* On a prejuge plus d'une fois de mes capacites a utiliser un ordinateur et plus 
+largement (au moins) de mes capacites intellectuelles, **je montrerai comment**
+**dans la section suivante.**
+* Cette idee qu'on avait de moi se basait majoritairement sur mon apparence, la
+seule chose qu'on connaissait de moi au moment ou ces jugements etaient formes.
+	* Je ne pense pas que **mon attitude**, ma **facon de s'exprimer** ou 
+	de **m'habiller** suggerait quoi que ce soit sur un manque de capacites
+	a utiliser un ordinateur ou a resoudre des problemes en general. Je porte
+	en plus des lunettes, avec les stereotypes positifs qui vont avec.
+	* L'element le plus probable reste **la couleur de peau**, la race donc, avec
+	tout ce qu'elle peut representer et ce qu'elle a represente dans l'Histoire.
+
+C'est en ce sens que j'ai parle de **"prejuge raciste"** ce 26/01/24, en le 
+precedant d'ailleurs de **"en partie"** parce qu'il m'etait difficile d'etablir
+a 100% le lien entre l'attitude **superieure**, de **mefiance**, ou tout simplement
+de **rejet** que certains etudiants ou candidats ont pu avoir, meme
+si je reverrai le meme type d'attitudes sur d'autres Noirs a 42 et que 
+mes recherches me permettront de revoir d'autres personnes dans d'autres 
+milieux ou elles sont minoritaires faire plus ou moins les memes observations...
+
+**Je precise encore une fois:** ca ne concernait pas et ca n'a jamais concerne 
+tous les etudiants de 42, mais personellement ce probleme revenait suffisamment
+souvent au point d'agacer ou de mettre en place des rapports etranges ou je
+me retrouvais a **prouver ma valeur** a des gens pourtant plus jeunes que moi
+et meme paradoxalement souvent aussi moins competents ou appliques...  
 
 <!-- Plus tard, -->
 
-## Messages 
+## Liste des messages 
 
 * 26 janvier 2024: je decrivais, **sans nommer** explicitement le moindre coupable 
 mais neanmoins non sans une certaine colere, les petits incidents que j'ai pu
